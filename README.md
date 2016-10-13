@@ -1,7 +1,7 @@
 # Arduino To Unity tutorial for Windows
 For our research and design class Dani van der Werf and I got to play around with the arduino. Here is a very simple way to get Parallax 2-AXIS Input to Unity.
 
-Do you have a Mac computer instead of a Windows??? check out <a href="https://github.com/danivdwerf/Arduino-Unity_tut'</a> github page!!
+Do you have a Mac computer instead of a Windows??? check out <a href="https://github.com/danivdwerf/Arduino-Unity_tut">Dani's</a> github page!!
 
 we recommend using www.codebender.cc for the arduino code!
 use <a href="">this</a> to connect the controller like we did.
